@@ -38,7 +38,7 @@
 ![image](https://user-images.githubusercontent.com/69680591/203552972-756652b7-d15c-4f86-b6b3-23de5be57e9b.png)
 
 
-<!-- - Where can I see your demo? -->This is the overview of my project, you can see the demo [here]("https://velvety-buttercream-017e50.netlify.app/")
+<!-- - Where can I see your demo? -->This is the overview of my project, you can see the demo [here](https://velvety-buttercream-017e50.netlify.app/).
 <!-- - What was your experience? -->I had a great experience by building this simple and amazing page.
 <!-- - What have you learned/improved? --> My main goal was to practice HTML and CSS by building these type of projects and I learned some new things like about writing-mode CSS property, etc.
 
