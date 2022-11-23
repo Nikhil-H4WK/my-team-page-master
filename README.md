@@ -35,7 +35,8 @@
 
 ## Overview
 
-![screenshot](https://user-images.githubusercontent.com/16707738/92399059-5716eb00-f132-11ea-8b14-bcacdc8ec97b.png)
+![image](https://user-images.githubusercontent.com/69680591/203552972-756652b7-d15c-4f86-b6b3-23de5be57e9b.png)
+
 
 <!-- - Where can I see your demo? -->This is the overview of my project, you can see the demo [here]()
 <!-- - What was your experience? -->I had a great experience by building this simple and amazing page.
@@ -58,6 +59,5 @@ This site was created as a submission to a [DevChallenges](https://devchallenges
 
 ## Contact
 
-- Website [your-website.com](https://{your-web-site-link})
 - GitHub [@Nikhil Kumar](https://github.com/Nikhil-H4WK)
 - Twitter [@Nikhil Codes](https://{twitter.com/nikhil__codes)
